@@ -1,0 +1,7 @@
+C:\Users\matze\Desktop\njCrypter-1.0\Stub\bin\Debug\Stub.exe
+C:\Users\matze\Desktop\njCrypter-1.0\Stub\bin\Debug\Stub.pdb
+C:\Users\matze\Desktop\njCrypter-1.0\Stub\obj\Debug\Stub.Properties.Resources.resources
+C:\Users\matze\Desktop\njCrypter-1.0\Stub\obj\Debug\Stub.csproj.GenerateResource.cache
+C:\Users\matze\Desktop\njCrypter-1.0\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\matze\Desktop\njCrypter-1.0\Stub\obj\Debug\Stub.exe
+C:\Users\matze\Desktop\njCrypter-1.0\Stub\obj\Debug\Stub.pdb
